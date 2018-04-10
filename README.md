@@ -2,7 +2,7 @@
 
 作者：卞荣成
 
-博客：[漂小泊的博客](https://www.itsolotime.com/blog) &nbsp;&nbsp;[临江仙的博客](https://www.itsolotime.com/blog)
+博客：[漂小泊的博客](https://www.itsolotime.com/blog) &nbsp;&nbsp;[临江仙的博客](https://linjx.itsolotime.com/blog)
 
 网站：[小泊随記](https://www.itsolotime.com)
 
